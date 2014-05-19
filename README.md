@@ -1,0 +1,4 @@
+spriteMaker
+===========
+
+simple sprite maker. 
