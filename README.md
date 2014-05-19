@@ -2,7 +2,7 @@ spriteMaker
 ===========
 
 simple sprite maker. 
-This app was made with openframeworks for use in my project. 
+This app was made with openframeworks(c++) for use in my project. 
 
 It'll save image as sprite.png on **/Document/spriteMaker/**
 
